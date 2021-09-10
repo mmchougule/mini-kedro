@@ -18,7 +18,7 @@ pip install -r requirements.txt
 After installing the requirements, you can launch Jupyter Notebook server as normal with:
 
 ```bash
-jupyter notebook
+jupyter lab
 ```
 
 At the root directory, you will find an example notebook showing how to instantiate the `DataCatalog` and interact with the included example dataset.
